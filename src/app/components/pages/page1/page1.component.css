@@ -1,0 +1,33 @@
+/* HEADER */
+.header1{
+    background-color: yellow;
+    height: 100px;
+    
+}
+
+/* CONTENT */
+.content1{
+    background-color: violet;
+    height: 500px;
+}
+
+.content2{
+    background-color: grey;
+    height: 500px;
+}
+
+.content3{
+    background-color: pink;
+    height: 500px;
+}
+
+/* FOOTER */
+.footer1{
+    background-color: yellow;
+    height: 100px;
+}
+
+.footer2{
+    background-color: yellowgreen;
+    height: 100px;
+}
